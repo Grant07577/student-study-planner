@@ -28,7 +28,7 @@ HTML5, CSS3, vanilla JavaScript, browser Local Storage, Git and GitHub, GitHub P
 Note: Local Storage saves data in your browser on one device. It does not sync between devices or browsers.
 
 ## Deployment
-Live URL: `[ADD YOUR GITHUB PAGES / NETLIFY URL AFTER DEPLOYING]`
+Live URL: https://github.com/Grant07577/student-study-planner
 
 ## AI assistance
 An AI assistant (Claude by Anthropic) helped generate the initial code, tests and documentation. I reviewed, ran and can explain the code.
